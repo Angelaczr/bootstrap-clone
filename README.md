@@ -1,2 +1,2 @@
  # Bootstrap Clone
-Clone Bootstrap Homepage with Bootstrap CSS Framework
+Cloning Bootstrap Homepage with Bootstrap CSS 
